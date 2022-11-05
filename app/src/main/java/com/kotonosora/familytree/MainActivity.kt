@@ -266,7 +266,7 @@ fun EditNumberField(
         modifier = Modifier.fillMaxWidth(),
         singleLine = true,
         keyboardOptions = keyboardOptions,
-        keyboardActions = keyboardActions
+        keyboardActions = keyboardActions,
     )
 }
 
